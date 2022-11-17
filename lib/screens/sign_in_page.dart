@@ -25,9 +25,9 @@ class SignInPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("APCNF"),
+        title: const Text("Prakruthi Sedhya"),
         centerTitle: true,
-        backgroundColor: Colors.teal[400],
+        backgroundColor: Colors.teal[600],
       ),
       body: SingleChildScrollView(
         child: ConstrainedBox(
